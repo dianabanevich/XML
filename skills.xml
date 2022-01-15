@@ -1,6 +1,6 @@
-<?xml version="1.0" ncoding=[D[D[D[D[D[D[D[De[C[C[D[Dn[C[C[D[Dcoding="UTF-8" ?>
-<>[Dskills>
-<>[Dgit bash>cd,mkdir, rm, touch,[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D [C[D[3~[3~[3~[3~[3~[3 mkdir, rm, touch, head, tail...<>[D/git bash>
-<>[Dgit hub>create repositories, add and commit files, change files...</git hub>
-<soft skills>communication, learn how to find information in Google..</soft skills>
-</skills>
+<?xml version="1.0" encoding="UTF-8" ?>
+<skills>
+	<gitbash>cd, mkdir, ls, rm, cp, mv, pwd and others</skills>
+	<github>create repositories, add files, commit files, push files, change files, branches, merge branches, push and pull</github>
+        <soft_skills>communication, learn how to find information in Google..</soft_skills>
+</skills> 
