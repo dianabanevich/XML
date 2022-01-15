@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<favourite film>
+
+<favourite_film>
 	<film>Harry Potter</film>
-<favourite TV-show>
+</favourite_film>
+
+<favourite_TV-show>
 	<TV-show>Game of thrones</TV-show>
-<favourite food>
+</favourite_TV-show>
+
+<favourite_food>
 	<food>fastfood</food>
-<favourite time of the year>
-	<time of the yeat>summer</time of the year>
-<country i want to visit>
+</favourite_food>
+
+<favourite_time__of_the_year>
+	<time_of_the_yeat>summer</time_of_the_year>
+</favourite_time__of_the_year>	
+
+<country_i_want_to_visit>
 	<country>Japan</country>
+</country_i_want_to_visit>
